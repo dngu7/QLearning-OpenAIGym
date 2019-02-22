@@ -10,7 +10,7 @@ STEP = 200  # Step limitation in an episode
 TEST = 10  # The number of tests to run every TEST_FREQUENCY episodes
 TEST_FREQUENCY = 100  # Num episodes to run before visualizing test accuracy #change back to 100
 
-HyperParameters
+# HyperParameters
 GAMMA =  0.95 # discount factor (Between 0 and 1)
 INITIAL_EPSILON =  1.0# starting value of epsilon (Discover Probability)
 FINAL_EPSILON =  0. # final value of epsilon

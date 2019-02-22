@@ -14,12 +14,12 @@ The algorithm achieves >190 average reward on the 100th episode and zero degrada
 - Avg Stable Episode             92.6
 
 # Techniques
-Single Layer Dense Neural Network Layer (Tanh, Adam Optimizer with 100 Hidden Units)
-Memory Storage and Training
-Prioritization of recent memory during training
-Dynamic Training Batch Sizes
-Dynamic Episilon
-Measurement of Stability with consecutive wins
+- Single Layer Dense Neural Network Layer (Tanh, Adam Optimizer with 100 Hidden Units)
+- Memory Storage and Training
+- Prioritization of recent memory during training
+- Dynamic Training Batch Sizes
+- Dynamic Episilon
+- Measurement of stability with consecutive wins
 
 # Setup Requirements
 Ensure Python3.6 and following packages are installed.
